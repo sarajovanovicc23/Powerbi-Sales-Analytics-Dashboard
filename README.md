@@ -34,17 +34,16 @@ The report provides clear visibility into key business metrics and supports data
 ## Dashboard Preview
 
 ### Executive Dashboard
-![Executive](Page1-Executive Dashboard.png)
-
+![Executive](Page1-Executive.png)
 
 ### Map Analysis
 ![Map](Page2-Map.png)
 
 ### Product Analysis
-![Product](Page3-Product Detail.png)
+![Product](Page3-ProductDetail.png)
 
 ### Customer Insights
-![Customer](Page4-Customer Detail.png)
+![Customer](Page4-CustomerDetail.png)
 
 ---
 
